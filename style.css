@@ -1,0 +1,23 @@
+body{
+    background-attachment: fixed;
+    background-color: cornflowerblue;
+
+}
+
+.body{
+    background-color: cornflowerblue;
+}
+text{
+    text-anchor: rgb(175, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    border-radius: 10px;
+    box-shadow: black;
+
+}
+.rect {
+    background: linear-gradient(
+    -119deg,
+    gray 0%,
+    dark-gray 100%); }
